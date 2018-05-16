@@ -1,0 +1,13 @@
+Class,Sub-class,Name,Price,Quantity
+Product,drink1,Coca-Cola,1.25,10
+Product,drink2,Sprite,1.25,8
+Product,drink3,Dasani,1,10
+Product,chips1,Lays,0.65,15
+Product,chips2,Cheetos,0.75,12
+Product,chips3,SunChips,0.5,7
+Product,candy1,Snickers,0.65,8
+Product,candy2,M&Ms,0.5,5
+Product,candy3,Skittles,0.5,4
+Product,gum1,DoubleMint,0.25,6
+Product,gum2,JuicyFruit,0.5,11
+Product,gum3,Orbit,1,5
